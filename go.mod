@@ -1,6 +1,6 @@
 module main.go
 
-go 1.18
+go 1.23
 
 require (
 	github.com/creack/goselect v0.1.2 // indirect
